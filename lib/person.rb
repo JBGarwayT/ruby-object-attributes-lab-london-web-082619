@@ -7,4 +7,6 @@ class Person
     @name
   end
   
+  def
+end
 end
